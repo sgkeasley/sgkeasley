@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Steph
+
+**Full-Stack Web Developer (in training!)**
+
+Skills include HTML, CSS, Android Studio with Kotlin
+
+[Github](https://github.com/sgkeasley) [LinkedIn](www.linkedin.com/in/stephanie-keasley) [Email](stephaniekeasley@gmail.com)
+
 
 <!--
 **sgkeasley/sgkeasley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
