@@ -2,7 +2,7 @@
 
 **Full-Stack Web Developer**
 
-Skills include HTML, CSS, Javascript, Android Studio with Compose and Kotlin
+Skills include HTML, CSS, JavaScript, Android Studio with Compose and Kotlin
 
 [Github](https://github.com/sgkeasley) [LinkedIn](www.linkedin.com/in/stephanie-keasley) [Email](stephaniekeasley@gmail.com)
 
