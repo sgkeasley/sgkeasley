@@ -1,8 +1,8 @@
 ### Hi, I'm Steph
 
-**Full-Stack Web Developer (in training!)**
+**Full-Stack Web Developer**
 
-Skills include HTML, CSS, Android Studio with Kotlin
+Skills include HTML, CSS, Javascript, Android Studio with Compose and Kotlin
 
 [Github](https://github.com/sgkeasley) [LinkedIn](www.linkedin.com/in/stephanie-keasley) [Email](stephaniekeasley@gmail.com)
 
