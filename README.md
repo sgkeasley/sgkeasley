@@ -2,7 +2,7 @@
 
 **Full-Stack Web Developer**
 
-Skills include HTML, CSS, JavaScript, React.js, Android Studio with Compose and Kotlin
+Skills include HTML, CSS, JavaScript, React.js, Node.js, MongoDB, Mongoose, Express.js
 
 [Github](https://github.com/sgkeasley) [LinkedIn](www.linkedin.com/in/stephanie-keasley) [Email](stephaniekeasley@gmail.com)
 
