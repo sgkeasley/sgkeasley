@@ -1,8 +1,12 @@
 ### Hi, I'm Steph
 
-**Full-Stack Web Developer**
+I'm a Web Developer with full-stack experience.
 
-Skills include HTML, CSS, JavaScript, React.js, Node.js, MongoDB, Mongoose, Express.js
+## Technical Skills
+- Front-End: HTML5, CSS3, JavaScript, React, React Native (Expo), WordPress (Divi), WooCommerce
+- Back-End: Node.js, Express, MongoDB, REST APIs
+- Tools: Git & GitHub, Chrome DevTools
+- Other: AI Prompt Engineering (ChatGPT, Claude.ai), SEO Best Practices, Responsive Design, Accessibility
 
 [Github](https://github.com/sgkeasley) [LinkedIn](www.linkedin.com/in/stephanie-keasley) [Email](stephaniekeasley@gmail.com)
 
